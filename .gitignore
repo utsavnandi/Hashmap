@@ -31,6 +31,8 @@
 *.out
 *.app
 
+*vcxproj*
+
 .vs/
 .vscode/
 x64/
